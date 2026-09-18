@@ -1,0 +1,41 @@
+{
+  "name": "LibreTV-SourceList",
+  "version": 2,
+  "exportedAt": 1789690501756,
+  "sources": [
+    {
+      "name": "影视工厂",
+      "url": "https://cj.lziapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "暴风点播",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "红牛点播",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "红牛",
+      "url": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+      "isAdult": false
+    }
+  ],
+  "liveSources": [
+    {
+      "name": "iptv",
+      "url": "https://github.com/vbskycn/iptv/blob/master/tv/iptv6.m3u"
+    },
+    {
+      "name": "myIPTV",
+      "url": "https://github.com/suxuang/myIPTV/blob/main/ipv4.m3u"
+    },
+    {
+      "name": "测试",
+      "url": "https://live.zbds.top/tv/iptv4.m3u"
+    }
+  ]
+}
